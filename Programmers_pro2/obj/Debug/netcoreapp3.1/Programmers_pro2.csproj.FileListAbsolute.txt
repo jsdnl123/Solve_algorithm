@@ -1,0 +1,11 @@
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\bin\Debug\netcoreapp3.1\Programmers_pro2.exe
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\bin\Debug\netcoreapp3.1\Programmers_pro2.deps.json
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\bin\Debug\netcoreapp3.1\Programmers_pro2.runtimeconfig.json
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\bin\Debug\netcoreapp3.1\Programmers_pro2.runtimeconfig.dev.json
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\bin\Debug\netcoreapp3.1\Programmers_pro2.dll
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\bin\Debug\netcoreapp3.1\Programmers_pro2.pdb
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\obj\Debug\netcoreapp3.1\Programmers_pro2.csprojAssemblyReference.cache
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\obj\Debug\netcoreapp3.1\Programmers_pro2.AssemblyInfoInputs.cache
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\obj\Debug\netcoreapp3.1\Programmers_pro2.AssemblyInfo.cs
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\obj\Debug\netcoreapp3.1\Programmers_pro2.dll
+C:\Users\위진세\source\repos\Programmers_pro_1\Programmers_pro2\obj\Debug\netcoreapp3.1\Programmers_pro2.pdb
